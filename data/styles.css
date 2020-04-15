@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -27,7 +27,7 @@
   color:#333333;
 }
 ._一级标题 {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:32px;
@@ -35,7 +35,7 @@
   text-align:left;
 }
 ._二级标题 {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:24px;
@@ -43,7 +43,7 @@
   text-align:left;
 }
 ._三级标题 {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:18px;
@@ -51,14 +51,14 @@
   text-align:left;
 }
 ._四级标题 {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   color:#333333;
   text-align:left;
 }
 ._五级标题 {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:13px;
@@ -66,7 +66,7 @@
   text-align:left;
 }
 ._六级标题 {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:10px;
@@ -113,7 +113,7 @@
   text-align:left;
 }
 .heading_2 {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:24px;
@@ -146,7 +146,7 @@
 ._流程形状 {
 }
 .new_style {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:normal;
   font-style:normal;
   font-size:14px;
@@ -164,7 +164,7 @@
 .box_11 {
 }
 ._自定义_三级菜单 {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:normal;
   font-style:normal;
   font-size:16px;
@@ -172,7 +172,7 @@
   text-align:left;
 }
 ._自定义_一级菜单 {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -234,7 +234,7 @@
   color:#333E50;
 }
 ._自定义_标题栏1 {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:normal;
   font-style:normal;
   font-size:18px;
@@ -310,7 +310,7 @@
 ._默认样式1 {
 }
 .title3 {
-  font-family:'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -368,7 +368,7 @@
   text-align:left;
 }
 ._二级标题1 {
-  font-family:'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -405,7 +405,7 @@
 .line1 {
 }
 .heading_1 {
-  font-family:'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:32px;
